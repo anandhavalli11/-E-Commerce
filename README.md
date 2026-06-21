@@ -117,7 +117,6 @@ npm start
 - DELETE `/api/cart/:id`
 
 ---
-
 ## 📸 Screenshots
 
 🏠 Home Page  
@@ -137,8 +136,6 @@ npm start
 
 📝 Register Page  
 <img src="./Output_Ss/register.png" width="600"/>
----
-
 ## ✨ Future Improvements
 
 - ⭐ Product Rating System  
