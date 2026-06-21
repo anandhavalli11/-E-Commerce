@@ -120,26 +120,23 @@ npm start
 
 ## 📸 Screenshots
 
-```
-### 🏠 Home Page
-![Home](./Output_Ss/home.png)
+🏠 Home Page  
+<img src="./Output_Ss/home.png" width="600"/>
 
-### 🛍️ Products Page
-![Products](./Output_Ss/products.png)
+🛍️ Products Page  
+<img src="./Output_Ss/products.png" width="600"/>
 
-### 🛒 Cart Page
-![Cart](./Output_Ss/cart.png)
+🛒 Cart Page  
+<img src="./Output_Ss/cart.png" width="600"/>
 
-### 📦 Orders Page
-![Orders](./Output_Ss/orders.png)
+📦 Orders Page  
+<img src="./Output_Ss/orders.png" width="600"/>
 
-### 🔐 Login Page
-![Login](./Output_Ss/login.png)
+🔐 Login Page  
+<img src="./Output_Ss/login.png" width="600"/>
 
-### 📝 Register Page
-![Register](./Output_Ss/register.png)
-```
-
+📝 Register Page  
+<img src="./Output_Ss/register.png" width="600"/>
 ---
 
 ## ✨ Future Improvements
