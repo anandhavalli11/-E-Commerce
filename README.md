@@ -120,12 +120,24 @@ npm start
 
 ## 📸 Screenshots
 
-Add your screenshots here:
-
 ```
-/screenshots/home.png
-/screenshots/product.png
-/screenshots/cart.png
+### 🏠 Home Page
+![Home](./Output_Ss/home.png)
+
+### 🛍️ Products Page
+![Products](./Output_Ss/products.png)
+
+### 🛒 Cart Page
+![Cart](./Output_Ss/cart.png)
+
+### 📦 Orders Page
+![Orders](./Output_Ss/orders.png)
+
+### 🔐 Login Page
+![Login](./Output_Ss/login.png)
+
+### 📝 Register Page
+![Register](./Output_Ss/register.png)
 ```
 
 ---
